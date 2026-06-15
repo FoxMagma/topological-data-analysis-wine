@@ -1,6 +1,6 @@
 # Topological Data Analysis + UMAP on Wine Dataset
 
-**Topological Data Analysis (TDA)** and **UMAP embedding** on the classic Wine dataset (178 samples, 13 features, 3 classes).
+**Topological Data Analysis (TDA) and UMAP embedding** on the classic Wine dataset (178 samples, 13 features, 3 classes).
 
 ## What this project demonstrates
 
